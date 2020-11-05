@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cb_topic_category">
+    <sys_cb_topic_category action="INSERT_OR_UPDATE">
+        <description>Virtual Agent topics for the NeedIt Virtual Agent Conversations application</description>
+        <name>NeedIt Virtual Agent Topics</name>
+        <sys_class_name>sys_cb_topic_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 05:26:57</sys_created_on>
+        <sys_id>7046fa4907146010d5dffa9e7c1ed08b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Virtual Agent topics for the NeedIt Virtual Agent Conversations application</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_537407_needit_vi">76c53e0907146010d5dffa9e7c1ed0dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">76c53e0907146010d5dffa9e7c1ed0dd</sys_scope>
+        <sys_update_name>sys_cb_topic_category_7046fa4907146010d5dffa9e7c1ed08b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 05:26:57</sys_updated_on>
+    </sys_cb_topic_category>
+</record_update>
